@@ -55,3 +55,5 @@ if(isNaN(age)){// No es un numero = is not a number (devuelve un booleano)
 //Operador Ternario
 let resultado3 = age >= 18 ? "Puede votar" : "Muy joven para votar";
 console.log(resultado3);
+
+//
